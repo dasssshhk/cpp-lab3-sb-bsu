@@ -20,4 +20,4 @@ int main() {
     
     cout << "The total sum of " << k << " integers is: " << sum_k;
     return 0;
-} 
+}
